@@ -53,5 +53,5 @@ A full-stack security-focused data cleaning platform with AI-powered PII detecti
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <[repository-url](https://github.com/Nion9/ai-data-security-platform)>
    cd ai-data-security-platform
