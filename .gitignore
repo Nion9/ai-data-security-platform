@@ -1,0 +1,11 @@
+﻿__pycache__/
+*.py[cod]
+venv/
+node_modules/
+.env
+*.db
+*.sqlite
+security_platform.db
+backend/uploads/*
+backend/processed/*
+frontend/build/
